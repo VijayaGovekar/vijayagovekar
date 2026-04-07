@@ -360,10 +360,10 @@ const CONTENT = {
     {
   role: "Graduate Teaching Assistant – Managerial Judgment & Decision Making",
   company: "Stevens Institute of Technology",
-  companyLogo: "/assets/logos/universities/stevens.png",
+  companyLogo: "/assets/logos/companies/ssb.jpeg",
   dates: "Jan 2026 – Present | Hoboken, NJ",
   bullets: [
-    "Supported course delivery for 20 MBA students by facilitating discussions on decision-making frameworks and behavioral analysis.",
+    "Assessed and graded examinations and assignments for a 20-member graduate class with care to ensure accuracy and conformance with course rubrics and objectives.",
     "Evaluated assignments and provided structured feedback to improve analytical thinking and clarity of argumentation.",
     "Collaborated with the professor to streamline grading workflows and maintain consistency across evaluations.",
     "Assisted in-class operations and student engagement, improving participation and learning outcomes."
