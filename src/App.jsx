@@ -131,7 +131,7 @@ function EducationTimeline({ items }) {
   );
 }
 
-/** ---------- Experience cards (like screenshot) ---------- */
+/** ---------- Experience cards ---------- */
 function ExperienceCards({ experience }) {
   return (
     <div className="expGrid">
@@ -357,6 +357,18 @@ const CONTENT = {
   ],
 
   experience: [
+    {
+  role: "Graduate Teaching Assistant – Managerial Judgment & Decision Making",
+  company: "Stevens Institute of Technology",
+  companyLogo: "/assets/logos/universities/stevens.png",
+  dates: "Jan 2026 – Present | Hoboken, NJ",
+  bullets: [
+    "Supported course delivery for 20 MBA students by facilitating discussions on decision-making frameworks and behavioral analysis.",
+    "Evaluated assignments and provided structured feedback to improve analytical thinking and clarity of argumentation.",
+    "Collaborated with the professor to streamline grading workflows and maintain consistency across evaluations.",
+    "Assisted in-class operations and student engagement, improving participation and learning outcomes."
+  ],
+}
     {
       role: "Software Engineer",
       company: "Bank of America",
