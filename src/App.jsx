@@ -368,7 +368,7 @@ const CONTENT = {
     "Collaborated with the professor to streamline grading workflows and maintain consistency across evaluations.",
     "Assisted in-class operations and student engagement, improving participation and learning outcomes."
   ],
-}
+},
     {
       role: "Software Engineer",
       company: "Bank of America",
